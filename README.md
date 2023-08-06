@@ -11,7 +11,7 @@ Computer Science 专业代码-408 考研笔记库
 
 └── 科目名称  
     ├── data  
-    │   ├── ...  
+    │   ├── ...  
     └── 分章节索引.md  
 
 # How To Use
