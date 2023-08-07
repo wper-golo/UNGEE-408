@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "c332c3136aed400f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b526a77cc45d294",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily/2022-10-14.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a9c2300cd3746df",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "86215c2ec74cff18",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7e14fcf576fe764e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "792176fffec61cf2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0c36b73f60004843",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "33e81d9a27feea8c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Daily/2022-10-14.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8dab93c68bcffd84",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Daily/2022-10-14.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3ee432c46295af18",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Daily/2022-10-14.md"
+          }
+        }
+      },
+      {
+        "id": "5a179494a7ada1e0",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "1b526a77cc45d294",
+  "lastOpenFiles": [
+    "Daily/2022-10-14.md",
+    "考研/计算机网络/自己的计网/物理层/物理层.md",
+    "考研/计算机网络/自己的计网/应用层/电子邮件/POP3.md",
+    "考研/计算机网络/自己的计网/应用层/电子邮件/SMTP.md",
+    "考研/计算机网络/自己的计网/概述.md",
+    "考研/计算机网络/开源的计网/3.数据链路层.md",
+    "考研/计算机网络/自己的计网/应用层/DNS/域名解析流程.md",
+    "考研/计算机网络/自己的计网/应用层/端对端连接方式/CorS.md",
+    "考研/计算机网络/自己的计网/应用层/端对端连接方式/P2P.md",
+    "考研/计算机网络/自己的计网/应用层/概述.md"
+  ]
+}
