@@ -1,0 +1,69 @@
+{
+  "choices": [
+    {
+      "id": "ba7ffda6-448b-4748-8cba-aac318579ee1",
+      "name": "突发奇想",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Daily/{{DATE}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "\\n - {{DATE:YYYY-MM-DD HH:mm}} {{VALUE}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## 突发奇想",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "3543c42b-4ebc-4154-bf93-0c8575adba81",
+      "name": "实习日志",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Log Template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "学校生活/2022暑假见习日志"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "c332c3136aed400f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd32d94eeccec1b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea07efcf32b4d7f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3607225cfbdd9e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1945dd0c187263a0",
+        "type": "tabs",
+        "dimension": 26.718547341115436,
+        "children": [
+          {
+            "id": "42d4701921d9d407",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "986694b7804ce6d8",
+        "type": "tabs",
+        "dimension": 73.28145265888456,
+        "children": [
+          {
+            "id": "96bf0b345e2f2017",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "735e1bf74b27d6fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "f8a205530a429aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "029dca968014673d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c0e2eff2f32b7f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27cda2b287978e6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "128ad1de4bd17424",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9967af927d71743a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f00df69e045410c9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "67dd90173407ae75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa6dc90aae63f8c4",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5,
+    "collapsed": true
+  },
+  "active": "ea07efcf32b4d7f7",
+  "lastOpenFiles": [
+    "考研/计算机网络/自己的计网/物理层/信道复用技术/码分复用.md",
+    "考研/计算机网络/自己的计网/物理层/物理层.md",
+    "考研/计算机网络/自己的计网/物理层/信道复用技术/波分复用.md",
+    "考研/计算机网络/自己的计网/物理层/信道复用技术/统计时分复用.md",
+    "考研/计算机网络/自己的计网/物理层/信道复用技术/时分复用.md",
+    "考研/计算机网络/自己的计网/物理层/信道复用技术/频分复用.md",
+    "考研/计算机网络/自己的计网/物理层/编码与调制/调制.md",
+    "考研/计算机网络/自己的计网/物理层/编码与调制/编码.md",
+    "考研/计算机网络/自己的计网/运输层/运输层.md",
+    "考研/计算机网络/自己的计网/运输层/TCP/TCP.md"
+  ]
+}

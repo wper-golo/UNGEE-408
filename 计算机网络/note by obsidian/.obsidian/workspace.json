@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "c332c3136aed400f",
+    "type": "split",
+    "children": [
+      {
+        "id": "561e7ab216592943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b936dcbdf213964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/程序设计/C语言拾遗/基础知识/数据类型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3607225cfbdd9e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1945dd0c187263a0",
+        "type": "tabs",
+        "dimension": 26.595744680851062,
+        "children": [
+          {
+            "id": "42d4701921d9d407",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考研/程序设计/C语言拾遗/基础知识/数据类型.md"
+              }
+            }
+          },
+          {
+            "id": "398c7c3bbac1e40c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "02fbc8bb885cee9a",
+        "type": "tabs",
+        "dimension": 73.40425531914893,
+        "children": [
+          {
+            "id": "8064d539d1258910",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9967af927d71743a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "735e1bf74b27d6fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "right": {
+    "id": "f8a205530a429aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "794f7da6d56f74b7",
+        "type": "tabs",
+        "dimension": 34.04255319148936,
+        "children": [
+          {
+            "id": "27cda2b287978e6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd3e3e24b761da7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/彩色时钟.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "61969cb7cd119c8f",
+        "type": "tabs",
+        "dimension": 65.95744680851064,
+        "children": [
+          {
+            "id": "aeb8632fb4948c4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考研/程序设计/C语言拾遗/基础知识/数据类型.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c0e2eff2f32b7f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研/程序设计/C语言拾遗/基础知识/数据类型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "0b936dcbdf213964",
+  "lastOpenFiles": [
+    "考研/程序设计/C语言拾遗/基础知识/运算符.md",
+    "考研/程序设计/C语言拾遗/基础知识/数据类型.md",
+    "考研/程序设计/C语言拾遗/基础知识/细小知识.md",
+    "考研/计算机网络/自己的计网/服务/流量控制/数据链路层和传输层的流量控制/滑动窗口机制/回退N帧协议及可靠传输的实现.md",
+    "考研/计算机网络/自己的计网/服务/流量控制/数据链路层和传输层的流量控制/停止-等待协议及可靠传输的实现.md",
+    "Daily/2023-08-04.md",
+    "考研/计算机网络/自己的计网/服务/可靠传输/数据链路层的差错控制/数据链路层的差错控制.md",
+    "考研/计算机网络/自己的计网/计算机五层体系/网络层/网络层.md",
+    "考研/计算机网络/自己的计网/计算机五层体系/网络层/IPv4/IPv4报文格式.md",
+    "考研/计算机网络/自己的计网/计算机五层体系/网络层/IPv4/IPv4.md",
+    "考研/计算机网络/自己的计网/计算机五层体系/网络层/IPv4/分类编址.md",
+    "考研/计算机网络/自己的计网/计算机五层体系/数据链路层/数据链路层.md",
+    "考研/计算机网络/自己的计网/计算机五层体系/网络层/assets/网络层/image-20230727202257401.png",
+    "考研/计算机网络/自己的计网/计算机五层体系/网络层/网络层索引.md",
+    "考研/计划.md",
+    "考研/计算机网络/自己的计网/整理计划.md",
+    "考研/计算机网络/自己的计网/计算机五层体系/网络层/ICMP/网际控制报文协议ICMP.md",
+    "考研/政治/马哲/马哲.md",
+    "考研/政治/马哲/实践与认识.md",
+    "考研/政治/马哲/未命名.md",
+    "考研/计算机网络/自己的计网/计算机五层体系/数据链路层/广播信道/介质访问控制/随机访问介质访问控制.md",
+    "考研/计算机网络/自己的计网/计算机五层体系/数据链路层/广播信道/广播信道.md",
+    "考研/计算机网络/自己的计网/服务/可靠传输/可靠传输.md",
+    "考研/计算机网络/自己的计网/服务/数据格式定义/数据链路层/封装成帧/封装成帧.md",
+    "考研/计算机网络/自己的计网/服务/流量控制/数据链路层和传输层的流量控制/停止-等待协议.md",
+    "考研/计算机网络/自己的计网/服务/流量控制/数据链路层和传输层的流量控制/assets",
+    "考研/计算机网络/自己的计网/服务/流量控制/数据链路层和传输层的流量控制/滑动窗口机制/滑动窗口机制.md",
+    "考研/计算机网络/自己的计网/计算机五层体系/运输层/TCP/TCP滑动窗口机制.md",
+    "考研/计算机网络/自己的计网/服务/流量控制/数据链路层和传输层的流量控制/滑动窗口机制/assets",
+    "考研/计算机网络/自己的计网/服务/流量控制/数据链路层和传输层的流量控制/滑动窗口机制",
+    "考研/计算机网络/自己的计网/服务/可靠传输/数据链路层的差错控制/比特差错校验",
+    "考研/计算机网络/自己的计网/服务/数据格式定义/数据链路层/封装成帧/assets/封装成帧/image-20230717151445057.png",
+    "考研/计算机网络/自己的计网/服务/数据格式定义/数据链路层/封装成帧/assets/封装成帧/image-20230717150201785.png",
+    "考研/计算机网络/自己的计网/服务/数据格式定义/数据链路层/封装成帧/assets/封装成帧/image-20230717115430283.png",
+    "考研/计算机网络/自己的计网/服务/数据格式定义/数据链路层/封装成帧/assets/封装成帧",
+    "考研/计算机网络/自己的计网/服务/数据格式定义/数据链路层/封装成帧/assets",
+    "考研/计算机网络/自己的计网/服务/可靠传输/传输层的差错控制",
+    "考研/计算机网络/自己的计网/协议/数据链路层/以太网",
+    "考研/计算机网络/自己的计网/协议/物理层",
+    "考研/计算机网络/自己的计网/协议/数据链路层",
+    "未命名.canvas",
+    "考研/程序设计/C语言拾遗/基础知识/assets/细小知识/image-20230708100955588.png",
+    "考研/程序设计/C语言拾遗/基础知识/assets/细小知识/image-20230708100642332.png"
+  ]
+}

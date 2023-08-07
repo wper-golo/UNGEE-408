@@ -1,0 +1,24 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "Daily/2022-07-25.md",
+      "date": "Mon Jul 25 2022"
+    },
+    {
+      "notePath": "Daily/2022-07-26.md",
+      "date": "Tue Jul 26 2022"
+    },
+    {
+      "notePath": "Daily/2022-07-27.md",
+      "date": "Wed Jul 27 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": false,
+  "timelineZoomLevel": 4
+}
